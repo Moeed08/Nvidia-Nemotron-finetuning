@@ -1,0 +1,15 @@
+.vscode/
+.venv/
+__pycache__
+*.safetensors
+llama.cpp/
+outputs/
+unsloth_compiled_cache/
+*.jinja
+*.json
+*.sh
+*.gguf
+*.deb
+*.deb.1
+*.deb.2
+nemotron-finetuned/
